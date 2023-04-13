@@ -11,18 +11,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //third commit
-
-        //A's first commit
-
-        //B's first commit
-
-        //B's second commit
-
-        //C's first commit
-
-        //C's second commit
-
 
 
     }
