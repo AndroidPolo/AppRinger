@@ -15,6 +15,10 @@ class MainActivity : AppCompatActivity() {
 
         //A's first commit
 
+        //B's first commit
+
+        //B's second commit
+
         //C's first commit
 
         //C's second commit
